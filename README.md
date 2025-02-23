@@ -1,2 +1,2 @@
 # Cypher
-Site web pour ma start-up studio
+Site web pour de start-up studio
